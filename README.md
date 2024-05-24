@@ -3,7 +3,7 @@
 
 - 🔭Actualmente estoy trabajando en **Desarrollo website de Bolsa de Trabajo**
 
-- 🌱 Actualmente estoy aprendiendo **React, React Native**
+- 🌱 Actualmente estoy aprendiendo **React, NodeJs**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [GitHub -  Gilberto Galán ](https://github.com/Gilberto-Galan?tab=repositories)
 
