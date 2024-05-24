@@ -13,7 +13,7 @@
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gilberto bartolome galán padilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gilberto bartolome galán padilla" height="30" width="40" /></a>
+<a href="https://mx.linkedin.com/in/gilberto-bartolome-gal%C3%A1n-padilla-a5a064203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gilberto bartolome galán padilla" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
