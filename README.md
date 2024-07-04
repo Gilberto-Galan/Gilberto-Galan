@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, soy Gilberto Galán</h1>
-<h3 align="center">Un desarrollador frontend apasionado de México.</h3>
-
-- 🔭Actualmente estoy trabajando en **Desarrollo website de Bolsa de Trabajo**
+<h3 align="center">Un desarrollador Full Stack apasionado de México.</h3>
 
 - 🌱 Actualmente estoy aprendiendo **React, React Native**
 
