@@ -1,39 +1,44 @@
 <h1 align="center">Hola 👋, soy Gilberto Galán</h1>
-<h3 align="center">Un Desarrollador Full Stack</h3>
-<div>
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
-</div>
+<p align="center">
+  <strong>Fullstack Developer | AI Engineer in Training | Deep Learning Enthusiast</strong>
+</p>
 
-<hr>
-
-<h3 align="center">Contactame</h3>
 <div align="center">
-  <a href="https://mx.linkedin.com/in/gilberto-bartolome-gal%C3%A1n-padilla-a5a064203" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="600">
 </div>
 
-<br>
+---
 
-<hr>
+### 🚀 Sobre mí
+Soy un desarrollador Fullstack apasionado por la intersección entre el desarrollo de software tradicional y la **Inteligencia Artificial**. Actualmente, estoy profundizando en el ecosistema de IA moderna para construir aplicaciones inteligentes y escalables.
+
+- 🤖 **Enfoque actual:** Deep Learning, LLMs y Arquitecturas de Transformadores.
+- ⚡ **Nivel bajo:** Optimizando cómputo con **CUDA** y C++.
+- 🛠️ **Fullstack:** Experiencia sólida en Node.js, React y Python.
+
+---
+
+### 🧠 AI & Machine Learning Stack
 <div align="center">
-	<img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineCount=1&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=Node.js,Node.js,05c102;JavaScript,JavaScript,ffee00;Express,Express,ffffff;" alt="My Tech Stack" />
-</div>
-                    
-## 💻 Tech Stack:
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA%20CUDA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
 
-<br>
+### 💻 Software Development Stack
+<div align="center"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+    <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" /> 
+</div>
 
-## 
+---
 
-![Gilberto-Galan's Stats](https://github-readme-stats.vercel.app/api?username=Gilberto-Galan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![Gilberto-Galan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Galan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+### 📈 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Gilberto-Galan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Gilberto's Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Galan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="180" />
+</p>
