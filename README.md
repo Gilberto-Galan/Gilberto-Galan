@@ -39,18 +39,12 @@ Soy un desarrollador apasionado por la intersección entre el software tradicion
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gilberto-Galan&show_icons=true&theme=tokyonight"alt="Gilberto's Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Galan&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Contacto
 <div align="center">
   <a href="https://mx.linkedin.com/in/gilberto-bartolome-gal%C3%A1n-padilla-a5a064203" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/the_gilbert0?igsh=emM0enpvaHlibmdi">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </div>
