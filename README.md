@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Gilberto Galán</h1>
 <p align="center">
-  <strong>Fullstack Developer | AI Engineer in Training | Deep Learning Enthusiast</strong>
+  <strong>Fullstack Developer | AI Engineer | Deep Learning & CUDA Enthusiast</strong>
 </p>
 
 <div align="center">
@@ -10,16 +10,17 @@
 ---
 
 ### 🚀 Sobre mí
-Soy un desarrollador Fullstack apasionado por la intersección entre el desarrollo de software tradicional y la **Inteligencia Artificial**. Actualmente, estoy profundizando en el ecosistema de IA moderna para construir aplicaciones inteligentes y escalables.
+Soy un desarrollador apasionado por la intersección entre el software tradicional y la **Inteligencia Artificial**. Actualmente, estoy profundizando en el ecosistema de IA moderna para construir aplicaciones inteligentes y optimizadas.
 
-- 🤖 **Enfoque actual:** Deep Learning, LLMs y Arquitecturas de Transformadores.
-- ⚡ **Nivel bajo:** Optimizando cómputo con **CUDA** y C++.
-- 🛠️ **Fullstack:** Experiencia sólida en Node.js, React y Python.
+- 🤖 **Enfoque actual:** Deep Learning, LLMs, SML y Arquitecturas de Transformadores.
+- ⚡ **Nivel bajo:** Optimizando cómputo con **CUDA**, C++ y Rust.
+- 🛠️ **Fullstack:** Experiencia en la creación de soluciones robustas con Python y JavaScript.
 
 ---
 
 ### 🧠 AI & Machine Learning Stack
 <div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA%20CUDA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -27,18 +28,29 @@ Soy un desarrollador Fullstack apasionado por la intersección entre el desarrol
 </div>
 
 ### 💻 Software Development Stack
-<div align="center"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-    <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" /> 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gilberto-Galan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Gilberto's Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Galan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="180" />
-</p>
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gilberto-Galan&show_icons=true&theme=tokyonight"alt="Gilberto's Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Galan&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
+### 📫 Contacto
+<div align="center">
+  <a href="https://mx.linkedin.com/in/gilberto-bartolome-gal%C3%A1n-padilla-a5a064203" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
