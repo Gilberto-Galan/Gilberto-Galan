@@ -1,4 +1,11 @@
-<h1 align="center">Hola 👋, soy Gilberto Galán</h1>
+
+<p align="center" style="margin:10px 0px 10px 80px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Gilberto%2C+Self-Taught+Developer.;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full-Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+
 <p align="center">
   <strong>Fullstack Developer | AI Engineer | Deep Learning & CUDA Enthusiast</strong>
 </p>
